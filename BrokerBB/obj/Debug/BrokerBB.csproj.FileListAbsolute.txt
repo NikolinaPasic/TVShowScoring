@@ -1,0 +1,9 @@
+C:\Users\Korisnik\source\repos\Seminarski rad\BrokerBB\bin\Debug\BrokerBB.dll
+C:\Users\Korisnik\source\repos\Seminarski rad\BrokerBB\bin\Debug\BrokerBB.pdb
+C:\Users\Korisnik\source\repos\Seminarski rad\BrokerBB\bin\Debug\Domain.dll
+C:\Users\Korisnik\source\repos\Seminarski rad\BrokerBB\bin\Debug\Domain.pdb
+C:\Users\Korisnik\source\repos\Seminarski rad\BrokerBB\obj\Debug\BrokerBB.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Seminarski rad\BrokerBB\obj\Debug\BrokerBB.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Seminarski rad\BrokerBB\obj\Debug\BrokerBB.csproj.CopyComplete
+C:\Users\Korisnik\source\repos\Seminarski rad\BrokerBB\obj\Debug\BrokerBB.dll
+C:\Users\Korisnik\source\repos\Seminarski rad\BrokerBB\obj\Debug\BrokerBB.pdb

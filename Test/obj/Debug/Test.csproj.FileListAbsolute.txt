@@ -1,0 +1,16 @@
+C:\Users\Korisnik\source\repos\Seminarski rad\Test\bin\Debug\Test.exe.config
+C:\Users\Korisnik\source\repos\Seminarski rad\Test\bin\Debug\Test.exe
+C:\Users\Korisnik\source\repos\Seminarski rad\Test\bin\Debug\Test.pdb
+C:\Users\Korisnik\source\repos\Seminarski rad\Test\bin\Debug\BrokerBB.dll
+C:\Users\Korisnik\source\repos\Seminarski rad\Test\bin\Debug\Domain.dll
+C:\Users\Korisnik\source\repos\Seminarski rad\Test\bin\Debug\BrokerBB.pdb
+C:\Users\Korisnik\source\repos\Seminarski rad\Test\bin\Debug\Domain.pdb
+C:\Users\Korisnik\source\repos\Seminarski rad\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Seminarski rad\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Seminarski rad\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Korisnik\source\repos\Seminarski rad\Test\obj\Debug\Test.exe
+C:\Users\Korisnik\source\repos\Seminarski rad\Test\obj\Debug\Test.pdb
+C:\Users\Korisnik\source\repos\Seminarski rad\Test\bin\Debug\Controller.dll
+C:\Users\Korisnik\source\repos\Seminarski rad\Test\bin\Debug\Controller.pdb
+C:\Users\Korisnik\source\repos\Seminarski rad\Test\bin\Debug\SistemskeOperacije.dll
+C:\Users\Korisnik\source\repos\Seminarski rad\Test\bin\Debug\SistemskeOperacije.pdb

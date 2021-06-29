@@ -1,0 +1,23 @@
+C:\Users\Korisnik\source\repos\Seminarski rad\Korisnicki interfejs\bin\Debug\Korisnicki interfejs.exe.config
+C:\Users\Korisnik\source\repos\Seminarski rad\Korisnicki interfejs\bin\Debug\Korisnicki interfejs.exe
+C:\Users\Korisnik\source\repos\Seminarski rad\Korisnicki interfejs\bin\Debug\Korisnicki interfejs.pdb
+C:\Users\Korisnik\source\repos\Seminarski rad\Korisnicki interfejs\obj\Debug\Korisnicki interfejs.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Seminarski rad\Korisnicki interfejs\obj\Debug\Korisnicki_interfejs.Form1.resources
+C:\Users\Korisnik\source\repos\Seminarski rad\Korisnicki interfejs\obj\Debug\Korisnicki_interfejs.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\Seminarski rad\Korisnicki interfejs\obj\Debug\Korisnicki interfejs.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\Seminarski rad\Korisnicki interfejs\obj\Debug\Korisnicki interfejs.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Seminarski rad\Korisnicki interfejs\obj\Debug\Korisnicki interfejs.exe
+C:\Users\Korisnik\source\repos\Seminarski rad\Korisnicki interfejs\obj\Debug\Korisnicki interfejs.pdb
+C:\Users\Korisnik\source\repos\Seminarski rad\Korisnicki interfejs\obj\Debug\Korisnicki_interfejs.FrmGlavnaAdministrator.resources
+C:\Users\Korisnik\source\repos\Seminarski rad\Korisnicki interfejs\bin\Debug\Domain.dll
+C:\Users\Korisnik\source\repos\Seminarski rad\Korisnicki interfejs\bin\Debug\Domain.pdb
+C:\Users\Korisnik\source\repos\Seminarski rad\Korisnicki interfejs\obj\Debug\Korisnicki interfejs.csproj.CopyComplete
+C:\Users\Korisnik\source\repos\Seminarski rad\Korisnicki interfejs\obj\Debug\Korisnicki_interfejs.FrmSignIn.resources
+C:\Users\Korisnik\source\repos\Seminarski rad\Korisnicki interfejs\obj\Debug\Korisnicki_interfejs.FrmRegularniKorisnik.resources
+C:\Users\Korisnik\source\repos\Seminarski rad\Korisnicki interfejs\obj\Debug\Korisnicki_interfejs.FrmUnosGlumca.resources
+C:\Users\Korisnik\source\repos\Seminarski rad\Korisnicki interfejs\obj\Debug\Korisnicki_interfejs.FrmGlumci.resources
+C:\Users\Korisnik\source\repos\Seminarski rad\Korisnicki interfejs\obj\Debug\Korisnicki_interfejs.FrmIzmenaGlumca.resources
+C:\Users\Korisnik\source\repos\Seminarski rad\Korisnicki interfejs\obj\Debug\Korisnicki_interfejs.FrmSerije.resources
+C:\Users\Korisnik\source\repos\Seminarski rad\Korisnicki interfejs\obj\Debug\Korisnicki_interfejs.FrmIzmenaSerije.resources
+C:\Users\Korisnik\source\repos\Seminarski rad\Korisnicki interfejs\obj\Debug\Korisnicki_interfejs.FrmBrisanjeSerije.resources
+C:\Users\Korisnik\source\repos\Seminarski rad\Korisnicki interfejs\obj\Debug\Korisnicki_interfejs.FrmUnosSerije.resources

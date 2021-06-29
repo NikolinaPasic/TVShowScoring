@@ -1,0 +1,11 @@
+C:\Users\Korisnik\source\repos\Seminarski rad\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Korisnik\source\repos\Seminarski rad\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Korisnik\source\repos\Seminarski rad\SistemskeOperacije\bin\Debug\BrokerBB.dll
+C:\Users\Korisnik\source\repos\Seminarski rad\SistemskeOperacije\bin\Debug\Domain.dll
+C:\Users\Korisnik\source\repos\Seminarski rad\SistemskeOperacije\bin\Debug\BrokerBB.pdb
+C:\Users\Korisnik\source\repos\Seminarski rad\SistemskeOperacije\bin\Debug\Domain.pdb
+C:\Users\Korisnik\source\repos\Seminarski rad\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Seminarski rad\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Seminarski rad\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+C:\Users\Korisnik\source\repos\Seminarski rad\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Korisnik\source\repos\Seminarski rad\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb

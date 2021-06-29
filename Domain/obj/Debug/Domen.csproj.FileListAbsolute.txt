@@ -1,0 +1,6 @@
+C:\Users\Korisnik\source\repos\Seminarski rad\Domain\bin\Debug\Domain.dll
+C:\Users\Korisnik\source\repos\Seminarski rad\Domain\bin\Debug\Domain.pdb
+C:\Users\Korisnik\source\repos\Seminarski rad\Domain\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Seminarski rad\Domain\obj\Debug\Domain.dll
+C:\Users\Korisnik\source\repos\Seminarski rad\Domain\obj\Debug\Domain.pdb
+C:\Users\Korisnik\source\repos\Seminarski rad\Domain\obj\Debug\Domen.csprojAssemblyReference.cache

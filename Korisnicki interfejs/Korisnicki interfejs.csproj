@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EA9F2CC7-DD1C-4CDF-8535-FF01B854FB8C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Korisnicki_interfejs</RootNamespace>
+    <AssemblyName>Korisnicki interfejs</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ControllerIzmenaGlumca.cs" />
+    <Compile Include="ControllerIzmenaSerije.cs" />
+    <Compile Include="ControllerLogin.cs" />
+    <Compile Include="ControllerPretraga.cs" />
+    <Compile Include="ControllerRecenzija.cs" />
+    <Compile Include="ControllerSignIn.cs" />
+    <Compile Include="ControllerUnosGlumca.cs" />
+    <Compile Include="ControllerUnosSerije.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBrisanjeSerije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBrisanjeSerije.Designer.cs">
+      <DependentUpon>FrmBrisanjeSerije.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGlavna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGlavna.Designer.cs">
+      <DependentUpon>FrmGlavna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGlumci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGlumci.Designer.cs">
+      <DependentUpon>FrmGlumci.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIzmenaGlumca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIzmenaGlumca.Designer.cs">
+      <DependentUpon>FrmIzmenaGlumca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIzmenaSerije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIzmenaSerije.Designer.cs">
+      <DependentUpon>FrmIzmenaSerije.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRegularniKorisnik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRegularniKorisnik.Designer.cs">
+      <DependentUpon>FrmRegularniKorisnik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSerije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSerije.Designer.cs">
+      <DependentUpon>FrmSerije.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSignIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSignIn.Designer.cs">
+      <DependentUpon>FrmSignIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUnosGlumca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUnosGlumca.Designer.cs">
+      <DependentUpon>FrmUnosGlumca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUnosSerije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUnosSerije.Designer.cs">
+      <DependentUpon>FrmUnosSerije.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Komunikacija.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ValidationHelpers.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBrisanjeSerije.resx">
+      <DependentUpon>FrmBrisanjeSerije.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGlavna.resx">
+      <DependentUpon>FrmGlavna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGlumci.resx">
+      <DependentUpon>FrmGlumci.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmIzmenaGlumca.resx">
+      <DependentUpon>FrmIzmenaGlumca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmIzmenaSerije.resx">
+      <DependentUpon>FrmIzmenaSerije.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRegularniKorisnik.resx">
+      <DependentUpon>FrmRegularniKorisnik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSerije.resx">
+      <DependentUpon>FrmSerije.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSignIn.resx">
+      <DependentUpon>FrmSignIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUnosGlumca.resx">
+      <DependentUpon>FrmUnosGlumca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUnosSerije.resx">
+      <DependentUpon>FrmUnosSerije.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domen.csproj">
+      <Project>{36d1268f-e3a1-4e1c-b25c-1ede39da04ed}</Project>
+      <Name>Domen</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,13 @@
+C:\Users\Korisnik\source\repos\Seminarski rad\Controller\bin\Debug\Controller.dll
+C:\Users\Korisnik\source\repos\Seminarski rad\Controller\bin\Debug\Controller.pdb
+C:\Users\Korisnik\source\repos\Seminarski rad\Controller\bin\Debug\BrokerBB.dll
+C:\Users\Korisnik\source\repos\Seminarski rad\Controller\bin\Debug\Domain.dll
+C:\Users\Korisnik\source\repos\Seminarski rad\Controller\bin\Debug\SistemskeOperacije.dll
+C:\Users\Korisnik\source\repos\Seminarski rad\Controller\bin\Debug\BrokerBB.pdb
+C:\Users\Korisnik\source\repos\Seminarski rad\Controller\bin\Debug\Domain.pdb
+C:\Users\Korisnik\source\repos\Seminarski rad\Controller\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Korisnik\source\repos\Seminarski rad\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Seminarski rad\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Seminarski rad\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\Korisnik\source\repos\Seminarski rad\Controller\obj\Debug\Controller.dll
+C:\Users\Korisnik\source\repos\Seminarski rad\Controller\obj\Debug\Controller.pdb
